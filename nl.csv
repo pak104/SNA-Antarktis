@@ -1,0 +1,600 @@
+id,name,type,sex,country,year,success,duration
+a,Belgica-Expedition,2,0,be,1897,1,26
+adrger,Adrien de Gerlache de Gomery,1,1,be,0,0,0
+geolec,Georges Lecointe,1,1,be,0,0,0
+roaamu,Roald Amundsen,1,1,no,0,0,0
+henarc,Henryk Arctowski,1,1,pl,0,0,0
+emidan,Émile Danco,1,1,be,0,0,0
+emirac,Emil Racoviță,1,1,ro,0,0,0
+frecoo,Frederick A. Cook,1,1,us,0,0,0
+antdob,Antoni Bolesław Dobrowolski,1,1,pl,0,0,0
+julmel,Jules Melaerts,1,1,be,0,0,0
+hensom,Henri Somers,1,1,be,0,0,0
+maxrys,Max van Rysselberghe,1,1,be,0,0,0
+loumic,Louis Michotte,1,1,be,0,0,0
+adatol,Adam Tollefsen,1,1,no,0,0,0
+ludjoh,Ludvig-Hjalmar Johansen,1,1,no,0,0,0
+engknu,Engebret Knudsen,1,1,no,0,0,0
+gusduf,Gustave-Gaston Dufour,1,1,be,0,0,0
+jeamir,Jean Van Mirlo,1,1,be,0,0,0
+carwie,Carl-August Wiencke ,1,1,no,0,0,0
+johkor,Johan Koren,1,1,no,0,0,0
+beroy,Belgisches Königshaus,3,0,be,0,0,0
+b,Southern-Cross-Expedition,2,0,no,1898,1,18
+carbor,Carsten Borchgrevink,1,1,no,0,0,0
+louber,Louis Bernacchi,1,1,au,0,0,0
+wilcol,William Colbeck,1,1,gb,0,0,0
+nichan,Nicolai Hanson,1,1,no,0,0,0
+herklo,Herluf Kløvstad,1,1,no,0,0,0
+hugeva,Hugh Evans,1,1,gb,0,0,0
+antfou,Anton Fougner,1,1,no,0,0,0
+kolell,Kolbein Ellefsen,1,1,no,0,0,0
+olemus,Ole Must,1,1,no,0,0,0
+persav,Per Savio,1,1,no,0,0,0
+berjen,Bernhard Jensen,1,1,no,0,0,0
+jorpet,Jørgen Petersen,1,1,no,0,0,0
+hanhan,Hans Hansen,1,1,no,0,0,0
+chrols,Christian Olsen,1,1,no,0,0,0
+juljoh,Julius Johannesen,1,1,no,0,0,0
+hanuli,Hans Ulis,1,1,no,0,0,0
+larand,Lars Andersen,1,1,se,0,0,0
+klekle,Klemet Klemetsen,1,1,no,0,0,0
+johjah,Johannes Jahnsen,1,1,no,0,0,0
+framag,Franz Magnussen,1,1,no,0,0,0
+oscbja,Oscar M. Bjarko,1,1,no,0,0,0
+ingsam,Ingvard Samuelsen,1,1,no,0,0,0
+hanjoh,Hans J. Johnson,1,1,no,0,0,0
+johand,Johan A. Andersen,1,1,no,0,0,0
+ololar,Olof Larsen,1,1,no,0,0,0
+larlar,Lars A. Larsen,1,1,no,0,0,0
+adokar,Adolf M. Karlsen,1,1,no,0,0,0
+axejoh,Axel Johansen,1,1,no,0,0,0
+carbee,Carl H. J. Been,1,1,no,0,0,0
+karbry,Karl Brynhildsen,1,1,no,0,0,0
+geonew,Sir George Newnes ,3,1,gb,0,0,0
+c,Discovery-Expedition,2,0,gb,1901,1,32
+robsco,Robert Falcon Scott,1,1,gb,0,0,0
+albarm,Albert Armitage,1,1,gb,0,0,0
+charoy,Charles Royds,1,1,gb,0,0,0
+micbar,Michael Barne,1,1,gb,0,0,0
+ernsha,Ernest Shackleton,1,1,ie,0,0,0
+geomul,George Mulock,1,1,gb,0,0,0
+regske,Reginald Skelton,1,1,gb,0,0,0
+regkoe,Reginald Koettlitz,1,1,gb,0,0,0
+edwwil,Edward Adrian Wilson,1,1,gb,0,0,0
+thohod,Thomas Vere Hodgson,1,1,gb,0,0,0
+harfer,Hartley Ferrar,1,1,gb,0,0,0
+thofea,Thomas Feather,1,1,gb,0,0,0
+jamdel,James Dellbridge,1,1,gb,0,0,0
+fredai,Fred Dailey,1,1,gb,0,0,0
+chafor,Charles Reginald Ford,1,1,gb,0,0,0
+jaccro,Jacob Cross,1,1,gb,0,0,0
+edgeva,Edgar Evans,1,1,gb,0,0,0
+wilsmy,William Smythe,1,1,gb,0,0,0
+davall,David Allan,1,1,gb,0,0,0
+thoken,Thomas Kennar,1,1,gb,0,0,0
+wilmac,William MacFarlane,1,1,gb,0,0,0
+gilsco,Gilbert Scott,1,1,gb,0,0,0
+artbli,Arthur Harry Blissett,1,1,gb,0,0,0
+wilcla,William Clarke,1,1,gb,0,0,0
+clahar,Clarence Hare,1,1,gb,0,0,0
+horbuc,Horace Edgar Buckridge,1,1,gb,0,0,0
+artpil,Arthur Edward Pilbeam,1,1,gb,0,0,0
+wilhea,William Loftouse Heald,1,1,gb,0,0,0
+jamdel1,James Dell,1,1,gb,0,0,0
+frawil,Frank Wild,1,1,gb,0,0,0
+thowil,Thomas Soulsb Williamson,1,1,gb,0,0,0
+geocro,George Beaver Croucher,1,1,gb,0,0,0
+ernjoy,Ernest Joyce,1,1,gb,0,0,0
+thocre,Thomas Crean,1,1,ie,0,0,0
+jeshan,Jesse Handsley,1,1,gb,0,0,0
+wilwel,William Isaac Weller,1,1,gb,0,0,0
+wilpet,William Peters,1,1,gb,0,0,0
+johwal,John Dargie Walker,1,1,gb,0,0,0
+jamdun,James Duncan,1,1,gb,0,0,0
+henbre,Henry B. Brett,1,1,gb,0,0,0
+geovin,George Vince,1,1,gb,0,0,0
+chabon,Charles Bonner,1,1,gb,0,0,0
+willas,William Lashly,1,1,gb,0,0,0
+artqua,Arthur Lester Quartley,1,1,gb,0,0,0
+thowhi,Thomas Whitfield,1,1,gb,0,0,0
+fraplu,Frank Plumley,1,1,gb,0,0,0
+wilpag,William Page,1,1,gb,0,0,0
+wilhub,William Hubert,1,1,gb,0,0,0
+brgov,Britische Regierung,3,0,gb,0,0,0
+llelon,Llewellyn W. Longstaff,3,1,gb,0,0,0
+rgs,Royal Geographical Society,3,0,gb,0,0,0
+alfhar,Alfred Harmsworth,3,1,gb,0,0,0
+q,Shackleton-Rowett Expedition,2,0,gb,1921,2,12
+frawor,Frank Worsley,1,1,nz,0,0,0
+aleker,Alexander Kerr,1,1,gb,0,0,0
+jammci,James McIlroy,1,1,gb,0,0,0
+alemac,Alexander Macklin,1,1,gb,0,0,0
+leohus,Leonard Hussey,1,1,gb,0,0,0
+chagre,Charles Green,1,1,gb,0,0,0
+thomcl,Thomas McLeod,1,1,gb,0,0,0
+rodcar,Roderick Carr,1,1,nz,0,0,0
+hubwil,Hubert Wilkins,1,1,au,0,0,0
+geodou,George Douglas,1,1,ca,0,0,0
+jammar,James Marr,1,1,gb,0,0,0
+normoo,Norman Mooney,1,1,gb,0,0,0
+doujef,Douglas Jeffrey,1,1,gb,0,0,0
+eeeeri,Eriksen,1,1,NA,0,0,0
+johbee,John Bee-Mason,1,1,gb,0,0,0
+cccsmi,C.E. Smith,1,1,gb,0,0,0
+harwat,Harold Watts,1,1,gb,0,0,0
+gggross,G.H. Ross,1,1,gb,0,0,0
+sssyou,S.S. Young,1,1,NA,0,0,0
+hararg,Harold Argles,1,1,NA,0,0,0
+chrnai,Christopher Naisbitt,1,1,NA,0,0,0
+johrow,John Quiller Rowett,3,1,gb,0,0,0
+g,Vierte Französische Antarktisexpedition,2,0,fr,1903,1,18
+jeacha,Jean-Baptiste Charcot,1,1,fr,0,0,0
+edosim,Édouard-Étienne-Auguste Simon,3,1,fr,0,0,0
+bes,Besnard,1,1,fr,0,0,0
+echo,E. Chollet,1,1,fr,0,0,0
+pday,P. Dayne,1,1,fr,0,0,0
+erngou,Ernest Gourdon,1,1,fr,0,0,0
+gou,Goudier,1,1,fr,0,0,0
+fgue,F. Guegen,1,1,fr,0,0,0
+jgue,J. Guegen,1,1,fr,0,0,0
+fher,F. Herveou,1,1,fr,0,0,0
+jjab,J. Jabet,1,1,fr,0,0,0
+lib,Libois,1,1,fr,0,0,0
+amat,A. Matha,1,1,fr,0,0,0
+robpau,Robert Paumelle,1,1,fr,0,0,0
+pauple,Paul Pleneau,1,1,fr,0,0,0
+lpos,L. Poste,1,1,fr,0,0,0
+rayral,Raymond Rallier du Baty,1,1,fr,0,0,0
+jrey,J. Rey,1,1,fr,0,0,0
+frol,F. Rolland,1,1,fr,0,0,0
+mroz,M. Rozo,1,1,fr,0,0,0
+jtur,J. Turquet,1,1,fr,0,0,0
+mai,Maignan,1,1,fr,0,0,0
+jbon,J. Bonnier,1,1,fr,0,0,0
+per,Perez,1,1,fr,0,0,0
+k,Amundsens Fram-Expedition,2,0,no,1910,1,24
+stor,Storting,3,0,no,0,0,0
+normar,Norwegische Marine,3,0,no,0,0,0
+norroy,Norwegisches Königspaar,3,0,no,0,0,0
+petchr,Peter Christophersen,3,1,no,0,0,0
+helhan,Helmer Hanssen,1,1,no,0,0,0
+swehas,Swerre Hassel,1,1,no,0,0,0
+olabja,Olav Bjaaland,1,1,no,0,0,0
+oscwis,Oscar Wisting,1,1,no,0,0,0
+kripre,Kristian Prestrud,1,1,no,0,0,0
+frejoh,Fredrik Hjalmar Johansen,1,1,no,0,0,0
+jorstu,Jørgen Stubberud,1,1,no,0,0,0
+adolin,Adolf Lindstrøm,1,1,no,0,0,0
+thonil,Thorvald Nilsen,1,1,no,0,0,0
+fregje,Frederick Gjertsen,1,1,no,0,0,0
+ludhan,Ludvig Hansen,1,1,no,0,0,0
+marron,Martin Rønne,1,1,no,0,0,0
+andbec,Andreas Beck,1,1,no,0,0,0
+knusun,Knut Sundbeck,1,1,no,0,0,0
+jacnod,Jacob Nødtvedt,1,1,no,0,0,0
+alekut,Alexander Stepanowitsch Kutschin,1,1,ru,0,0,0
+karols,Karinius Olsen,1,1,no,0,0,0
+halkri,Halvardus Kristensen,1,1,no,0,0,0
+h,Nimrod-Expedition,2,0,gb,1907,2,24
+wilbea,William Beardmore,3,1,gb,0,0,0
+edwgui,"Edward Guinness, 1. Earl of Iveagh",3,1,ie,0,0,0
+ausgov,Australische Regierung,3,0,au,0,0,0
+neugov,Neuseeländische Regierung,3,0,nz,0,0,0
+jamada,Jameson Adams,1,1,gb,0,0,0
+erimar,Eric Stewart Marshall,1,1,gb,0,0,0
+tandav,Tannatt William Edgeworth David,1,1,gb,0,0,0
+doumaw,Douglas Mawson,1,1,gb,0,0,0
+alimac,Alistair Mackay,1,1,gb,0,0,0
+berarm,Bertram Armytage,1,1,au,0,0,0
+phibro,Philip Lee Brocklehurst,1,1,gb,0,0,0
+rapri,Raymond Edward Priestley,1,1,gb,0,0,0
+geomar,George Edward Marston,1,1,gb,0,0,0
+jammur,James Murray,1,1,gb,0,0,0
+berday,Bernard Cartmell Day,1,1,gb,0,0,0
+wilrob,William Roberts,1,1,gb,0,0,0
+rupeng,Rupert England,1,1,gb,0,0,0
+freeva,Frederick Pryce Evans,1,1,gb,0,0,0
+johdav,John King Davis,1,1,au,0,0,0
+aenmac,Aeneas Mackintosh,1,1,gb,0,0,0
+arthar,Arthur Edward Harbord,1,1,gb,0,0,0
+sydric,Sydney Richardson,1,1,gb,0,0,0
+alfche,Alfred Buchanan Cheetham,1,1,gb,0,0,0
+hendun,Henry Joseph Long Dunlop,1,1,ie,0,0,0
+chrcra,Christian Craft,1,1,gb,0,0,0
+davnel,David Nelson,1,1,gb,0,0,0
+chahun,Charles Hunt,1,1,gb,0,0,0
+hugmcg,Hugh McGowan,1,1,ie,0,0,0
+wilmic,William Arthur Rupert Michell,1,1,ca,0,0,0
+jhan,J. Hancock,1,1,gb,0,0,0
+wilans,William Drummond Ansel,1,1,nz,0,0,0
+murmcr,Murdoch M. McRae,1,1,au,0,0,0
+johmon,John Thomas Montague,1,1,gb,0,0,0
+edwmor,Edward Morrison,1,1,gb,0,0,0
+micmcg,Michael Thomas McGillion,1,1,nz,0,0,0
+wilmey,William Richard Meyrick,1,1,nz,0,0,0
+walbil,Walter George Bilsby,1,1,gb,0,0,0
+jampat,James Paton,1,1,gb,0,0,0
+freabr,Frederick George Abraham,1,1,gb,0,0,0
+vicber,Victor Berry,1,1,gb,0,0,0
+johbro,John Brolly,1,1,us,0,0,0
+alfbul,Alfred B. Bull,1,1,gb,0,0,0
+harbul,Harold Boyer Bull,1,1,au,0,0,0
+ernell,Ernest Watson Ellis,1,1,gb,0,0,0
+geokem,George Richard Kemp,1,1,gb,0,0,0
+johmcm,John McMillan,1,1,gb,0,0,0
+ricnod,Richard Henry Nodder,1,1,gb,0,0,0
+ernrey,Ernest Reynard,1,1,gb,0,0,0
+groo,G. Rooney,1,1,nz,0,0,0
+walspi,Walter Spice,1,1,gb,0,0,0
+wwil,W. Williams,1,1,au,0,0,0
+ddon,D. Donovan,1,1,ie,0,0,0
+hhol,H. Holmes,1,1,gb,0,0,0
+robmcn,Robert McNeil,1,1,gb,0,0,0
+johpar,John Stuart Partridge,1,1,nz,0,0,0
+sidric,Sidney Barnes Riches,1,1,gb,0,0,0
+felroo,Felix Rooney,1,1,gb,0,0,0
+asch,A. Schofield,1,1,gb,0,0,0
+mvau,M. Vaughan,1,1,nz,0,0,0
+geobuc,George Alexander McLean Buckley,1,1,nz,0,0,0
+leocot,Leo Arthur Cotton,1,1,au,0,0,0
+alfrei,Alfred Reid,1,1,gb,0,0,0
+herdor,Herbert Dorman,1,1,gb,0,0,0
+joskin,Joseph James Kinsey,1,1,nz,0,0,0
+n,Aurora Expedition,2,0,au,1911,1,26
+brispe,Britische Spenden,3,0,gb,0,0,0
+ausbure,Australische Bundesregierung,3,0,au,0,0,0
+ausbusta,Australische Bundesstaatenregierungen,3,0,au,0,0,0
+prispem,Private Spenden Zweite Deutsche Antarktisexpedition,3,0,NA,0,0,0
+edwbag,Edward Frederick Robert Bage,1,1,au,0,0,0
+franbic,Francis Howard Bickerton,1,1,gb,0,0,0
+johclo,John Henry Collinson Close,1,1,gb,0,0,0
+percor,Percy Correll,1,1,au,0,0,0
+walhan,Walter Henry Hannam,1,1,au,0,0,0
+alfhod,Alfred Hodgeman,1,1,au,0,0,0
+johhun,John George Hunter,1,1,au,0,0,0
+jamhur,James Francis Hurley,1,1,au,0,0,0
+sidjef,Sidney Jeffryes,1,1,au,0,0,0
+chalas,Charles Francis Laseron,1,1,us,0,0,0
+cecmad,Cecil Thomas Madigan,1,1,au,0,0,0
+arcmcl,Archibald Lang McLean,1,1,au,0,0,0
+xavmer,Xavier Guillaume Mertz,1,1,ch,0,0,0
+hermur,Herbert Dyce Murphy,1,1,au,0,0,0
+belnin,Belgrave Edward Sutton Ninnis,1,1,gb,0,0,0
+frasti,Frank Leslie Stillwell,1,1,au,0,0,0
+eriweb,Eric Webb,1,1,nz,0,0,0
+leswhe,Leslie Hatton Whetter,1,1,nz,0,0,0
+chadov,Charles Dovers,1,1,au,0,0,0
+chahar,Charles Harrisson,1,1,au,0,0,0
+chahoa,Charles Archibald Brookes Hoadley,1,1,au,0,0,0
+sydjon,Sydney Evan Jones,1,1,au,0,0,0
+aleken,Alexander Lorimer Kennedy,1,1,au,0,0,0
+mormoy,Morton Henry Moyes,1,1,au,0,0,0
+andwat,Andrew Douglas Watson,1,1,au,0,0,0
+geoain,George Ainsworth,1,1,au,0,0,0
+lesbla,Leslie Blake,1,1,au,0,0,0
+harham,Harold Hamilton,1,1,nz,0,0,0
+chasan,Charles Sandell,1,1,gb,0,0,0
+artsaw,Arthur Sawyer,1,1,nz,0,0,0
+johbla,John Hamilton Blair,1,1,gb,0,0,0
+frefle,Frederick Douglas Fletcher,1,1,au,0,0,0
+fregil,Frederick Jacob Gillies,1,1,gb,0,0,0
+pergra,Percival Gray,1,1,au,0,0,0
+clamot,Clarence Petersen de la Motte,1,1,au,0,0,0
+nortou,Norman Champion Toutcher,1,1,au,0,0,0
+jamdav,James Davis,1,1,gb,0,0,0
+ceit,C.C. Eitel,1,1,au,0,0,0
+tfly,T.T. Flynn,1,1,au,0,0,0
+ewait,E.R. Waite,1,1,au,0,0,0
+jwat,J. van Waterschoot,1,1,nl,0,0,0
+m,Zweite Deutsche Antarktisexpedition,2,0,de,1911,2,19
+wilfil,Wilhelm Filchner,1,1,de,0,0,0
+eriprz,Erich Przybyllok,1,1,de,0,0,0
+eribar,Erich Barkow,1,1,de,0,0,0
+wilbre,Wilhelm Brennecke,1,1,de,0,0,0
+frihei,Fritz Heim,1,1,de,0,0,0
+felkon,Felix König,1,1,at,0,0,0
+ricvah,Richard Vahsel,1,1,de,0,0,0
+alfkli,Alfred Kling,1,1,de,0,0,0
+ludkoh,Ludwig Kohl,1,1,de,0,0,0
+wilgoe,Wilhelm von Goeldel,1,1,de,0,0,0
+willor,Wilhelm Lorenzen,1,1,de,0,0,0
+johmul,Johannes Müller,1,1,de,0,0,0
+walslo,Walter Slossarczyk,1,1,de,0,0,0
+conhey,Conrad Heyneck,1,1,de,0,0,0
+augbes,August Besenbrok,1,1,de,0,0,0
+gusdre,Gustav Dreyer,1,1,de,0,0,0
+adosch,Adolf Schwabe,1,1,de,0,0,0
+lousch,Louis Schalitz,1,1,de,0,0,0
+ernmul,Ernst Müller,1,1,de,0,0,0
+wilsim,Wilhelm Simon,1,1,de,0,0,0
+johjoh,Johann Ludwig Johnsen,1,1,de,0,0,0
+ricnoa,Richard Noack,1,1,de,0,0,0
+karklu,Karl Klück,1,1,de,0,0,0
+fribot,Fritz Böttcher,1,1,de,0,0,0
+paubjo,Paul Björvig,1,1,no,0,0,0
+kurhof,Kurt Hoffmann,1,1,de,0,0,0
+morola,Morten Olaisen,1,1,no,0,0,0
+karols1,Karl Anton Olsen,1,1,de,0,0,0
+pauwol,Paul Wolff,1,1,de,0,0,0
+frieng,Fritz Engemann,1,1,de,0,0,0
+karsch,Karl Johannes Schulze,1,1,de,0,0,0
+hersel,Hermann Selle,1,1,de,0,0,0
+johwil1,Johann Wilken,1,1,de,0,0,0
+karzan,Karl Zänker,1,1,de,0,0,0
+frakra,Franz Krause,1,1,de,0,0,0
+offlot,Öffentliche Lotterie,3,0,NA,0,0,0
+heisee,Heinrich Seelheim,1,1,de,0,0,0
+wilule,Willi Ule,1,1,de,0,0,0
+kasneu,Kaspar Neuberger,1,1,NA,0,0,0
+hanloh,Hans Lohmann,1,1,de,0,0,0
+o,Endurance,2,0,gb,1914,2,21
+frahur,Frank Hurley,1,1,au,0,0,0
+hubhud,Huberht Hudson,1,1,gb,0,0,0
+liogre,Lionel Greenstreet,1,1,gb,0,0,0
+tomcre,Tom Crean,1,1,ie,0,0,0
+lewric,Lewis Rickinson,1,1,gb,0,0,0
+robcla,Robert Clark,1,1,gb,0,0,0
+jamwor,James Wordie,1,1,gb,0,0,0
+regjam,Reginald James,1,1,gb,0,0,0
+thoord,Thomas Orde-Lees,1,1,gb,0,0,0
+harmcn,Harry McNish,1,1,gb,0,0,0
+wilste,William Stephenson,1,1,gb,0,0,0
+ernhol,Ernest Holness,1,1,gb,0,0,0
+johvin,John Vincent,1,1,gb,0,0,0
+timmcc,Timothy McCarthy,1,1,ie,0,0,0
+walhow,Walter How,1,1,gb,0,0,0
+wilbak,William Lincoln Bakewell,1,1,us,0,0,0
+perbla,Perce Blackborow,1,1,gb,0,0,0
+dangoo,Daniel Gooch,1,1,gb,0,0,0
+duddoc,Dudley Docker,3,0,NA,0,0,0
+jastwi,Janet Stancomb-Wills,3,0,NA,0,0,0
+jamcai,James Caird,3,0,NA,0,0,0
+p,Ross Sea Party,2,0,gb,1914,1,24
+ausgon,Australische Gönner,3,0,NA,0,0,0
+ernwil,Ernest Wild,1,1,gb,0,0,0
+arnspe,Arnold Spencer-Smith,1,1,gb,0,0,0
+johcop,John Lachlan Cope,1,1,gb,0,0,0
+aleste,Alexander Stevens,1,1,gb,0,0,0
+ricric,Richard W. Richards,1,1,au,0,0,0
+andjac,Andrew Keith Jack,1,1,au,0,0,0
+irvgaz,Irvine Gaze,1,1,gb,0,0,0
+vichay,Victor Hayward,1,1,gb,0,0,0
+aubnin,Aubrey Ninnis,1,1,gb,0,0,0
+liohoo,Lionel Hooke,1,1,aus,0,0,0
+josste,Joseph Stenhouse,1,1,gb,0,0,0
+lestho,Leslie James Felix Thomson,1,1,au,0,0,0
+alflar,Alfred Herbert Larkman,1,1,gb,0,0,0
+chadon,Charles Adrian Donnelly,1,1,NA,0,0,0
+clamau,Clarence Charles Maugher,1,1,nz,0,0,0
+sydatk,Sydney Atkin,1,1,NA,0,0,0
+artdow,Arthur Downing,1,1,NA,0,0,0
+wilkav,William Kavanagh,1,1,au,0,0,0
+johwar,John Thomas Shorty Warren,1,1,NA,0,0,0
+chagli,Charles Glidden,1,1,NA,0,0,0
+samgra,Samuel Grady,1,1,NA,0,0,0
+wilmug,William Henry Mugridge,1,1,gb,0,0,0
+harsha,Harold Shaw,1,1,nz,0,0,0
+edwwis,Edward Wise,1,1,NA,0,0,0
+emiang,Émile-Octave d’Anglade,1,1,NA,0,0,0
+d,Gauss Expedition,2,0,DE,1901,1,26
+eridry,Erich von Drygalski,1,1,DE,0,0,0
+gusbah,Gustav Bahr,1,1,DE,0,0,0
+ernvan,Ernst Vanhöffen,1,1,DE,0,0,0
+hangaz,Hans Gazert,1,1,DE,0,0,0
+emiphi,Emil Philippi,1,1,DE,0,0,0
+fribid,Friedrich Bidlingmaier,1,1,DE,0,0,0
+emiwer,Emil Werth,1,1,DE,0,0,0
+josenz,Josef Enzensperger,1,1,DE,0,0,0
+karluy,Karl Luyken,1,1,DE,0,0,0
+josurb,Josef Urbansky,1,1,DE,0,0,0
+geowie,Georg Wienke,1,1,DE,0,0,0
+hanrus,Hans Ruser,1,1,DE,0,0,0
+albste,Albert Stehr,1,1,DE,0,0,0
+willer,Wilhelm Lerche,1,1,DE,0,0,0
+ludott,Ludwig Ott,1,1,DE,0,0,0
+josmue,Josef Mueller,1,1,DE,0,0,0
+handah,Hans Dahler,1,1,DE,0,0,0
+augrei,August Reimers,1,1,DE,0,0,0
+wilhei,Willy Heinrich,1,1,DE,0,0,0
+geonoa,Georg Noack,1,1,DE,0,0,0
+maxfis,Max Fisch,1,1,DE,0,0,0
+danjoh,Daniel Johannsen,1,1,NO,0,0,0
+willys,Wilhelm Lysel,1,1,SE,0,0,0
+lenreu,Lenart Reuterskjöld,1,1,SE,0,0,0
+curstj,Curt Stjernblad,1,1,SE,0,0,0
+pauhei,Paul Heinacker,1,1,DE,0,0,0
+reimar,Reinhold Marek,1,1,DE,0,0,0
+emiber,Emil Berglöff,1,1,DE,0,0,0
+leomue,Leonhard Mueller,1,1,DE,0,0,0
+karfra,Karl Franz,1,1,DE,0,0,0
+reimic,Reinhold Michael,1,1,DE,0,0,0
+wilsch,Wilhelm Schwarz,1,1,DE,0,0,0
+albpos,Albert Possin,1,1,DE,0,0,0
+geremp,German Empire,3,0,DE,0,0,0
+e,Swedish Expedition,2,0,SE,1901,1,25
+ottnor,Otto Nordenskjöld,3,1,SE,0,0,0
+carlar,Carl Anton Larsen,1,1,NO,0,0,0
+olebjo,Ole Johnson Bjornerud,1,1,NO,0,0,0
+olewen,Ole Christian Wennersgaard,1,1,NO,0,0,0
+torgru,Toralf Grunden,1,1,NO,0,0,0
+olejon,Ole Jonassen,1,1,NO,0,0,0
+andkar,Anders Karlsen,1,1,NO,0,0,0
+johand1,Johan Gunnar Andersson,1,1,SE,0,0,0
+karand,Karl Andreas Andersson,1,1,SE,0,0,0
+axeand,Axel Andersson,1,1,SE,0,0,0
+goebod,Goesta Bodman,1,1,SE,0,0,0
+samdus,Samuel August Duse,1,1,SE,0,0,0
+erieke,Erik Ekelöf,1,1,SE,0,0,0
+axeohl,Axel Ohlin,1,1,SE,0,0,0
+hhas,H. J. Haslum,1,1,NO,0,0,0
+carskot,Carl Johan Fredrik Skottsberg,1,1,SE,0,0,0
+jossob,José María Sobral,1,1,AR,0,0,0
+frasto,Frank Wilbert Stokes,1,1,US,0,0,0
+johait,John Aitken,1,1,US,0,0,0
+frajen,Franck Jenner,1,1,US,0,0,0
+wilhol,Wilhelm Jönsson Holmberg,1,1,SE,0,0,0
+carjoh,Carl Johannson,1,1,SE,0,0,0
+axerein,Axel Reinholdz,1,1,SE,0,0,0
+gsch,G. F. Schönbeck,1,1,SE,0,0,0
+hake,H. Akerlund,1,1,SE,0,0,0
+carsco,Carl Scottsberg,1,1,SE,0,0,0
+geokar,Georg Karlsen,1,1,NO,0,0,0
+antula,Anton Ula,1,1,NO,0,0,0
+oleola,Ole Martin Olaussen,1,1,NO,0,0,0
+oleduu,Ole Duus,1,1,NO,0,0,0
+martof,Martin Tofte,1,1,NO,0,0,0
+f,Scottish National Antarctic Expedition,2,0,GB,1902,1,21
+wilbru,William Speirs Bruce,3,1,GB,0,0,0
+henand,Henry Anderson,1,1,GB,0,0,0
+robdav,Robert Davidson,1,1,GB,0,0,0
+davwil,David Wilton,1,1,GB,0,0,0
+robrud,Robert Neal Rudmose-Brown,1,1,GB,0,0,0
+jampir,James Hunter Harvey Pirie,1,1,GB,0,0,0
+robmos,Robert Mossman,1,1,GB,0,0,0
+alaros,Alastair Ross,1,1,GB,0,0,0
+thorob,Thomas Robertson,1,1,GB,0,0,0
+aledun,Alexander Duncan,1,1,GB,0,0,0
+johfit,John Fitchie,1,1,GB,0,0,0
+edwflo,Edwin Florence,1,1,GB,0,0,0
+hengrav,Henry Gravill,1,1,GB,0,0,0
+andgri,Andrew Grieg ,1,1,GB,0,0,0
+carhay,Carlos Haymes,1,1,GB,0,0,0
+gilker,Gilbert Kerr,1,1,GB,0,0,0
+davlow,David Low,1,1,GB,0,0,0
+johmac,John Macmurchie,1,1,GB,0,0,0
+thomac,Thomas Mackenzie,1,1,GB,0,0,0
+robmac,Robert Mackenzie,1,1,GB,0,0,0
+jammac,James Mackenzie,1,1,GB,0,0,0
+wilmar,William Martin ,1,1,GB,0,0,0
+jamdou,James McDougall,1,1,GB,0,0,0
+wilmur,William Murray,1,1,GB,0,0,0
+davpat,David Patrick,1,1,GB,0,0,0
+alaram,Alan Ramsay,1,1,GB,0,0,0
+jamric,James Rice,1,1,GB,0,0,0
+alerob,Alexander Robertson,1,1,GB,0,0,0
+jamsmi,James Smith,1,1,GB,0,0,0
+johsmi,John Smith,1,1,GB,0,0,0
+wilsmi,William Smith,1,1,GB,0,0,0
+alltho,Allan Thomas,1,1,GB,0,0,0
+robwil,Robert Wilson,1,1,GB,0,0,0
+wilcut,William Cuthbertson,1,1,GB,0,0,0
+i,Fünfte Französische Antarktisxpedition,2,0,fra,1908,1,22
+hankam,Handelskammer,3,0,fra,0,0,0
+frasta,Französischer Staat,3,0,fra,0,0,0
+ave,Aveline,1,1,NA,0,0,0
+bol,Boland,1,1,NA,0,0,0
+hbon,H. Bongrain,1,1,NA,0,0,0
+den,Denais,1,1,NA,0,0,0
+duf,Dufreche,1,1,NA,0,0,0
+fra,Frachat,1,1,NA,0,0,0
+lgai,L. Gain,1,1,NA,0,0,0
+rgod,R. Godfroy,1,1,NA,0,0,0
+her,Herve,1,1,NA,0,0,0
+ler,Lerebourgh,1,1,NA,0,0,0
+lho,Lhostis,1,1,NA,0,0,0
+jlio,J.M.D. Liouville,1,1,NA,0,0,0
+mod,Modaine,1,1,NA,0,0,0
+mon,Monzimet,1,1,NA,0,0,0
+noz,Nozal,1,1,NA,0,0,0
+ros,Rosselin,1,1,NA,0,0,0
+julrou,Jules Rouch,1,1,NA,0,0,0
+asen,A. Senouque,1,1,NA,0,0,0
+tho,Thomas,1,1,NA,0,0,0
+van,Van Acken,1,1,NA,0,0,0
+l,Terra-Nova-Expedition,2,0,uk,1910,2,36
+kred,Kredite,3,0,NA,0,0,0
+henbow,Henry Bowers,1,1,gb,0,0,0
+lawoat,Lawrence Oates,1,1,gb,0,0,0
+edweva,Edward Evans,1,1,gb,0,0,0
+edwatk,Eward Leicester Atkinson,1,1,gb,0,0,0
+apsche,Apsley Cherry-Garrarc,1,1,gb,0,0,0
+chawri,Charles Seymour Wright,1,1,ca,0,0,0
+patkeo,Patrick Keohane,1,1,ie,0,0,0
+cecmea,Cecil Henry Meares,1,1,gb,0,0,0
+dmtgir,Dmitri Semjonowitsch Girew,1,1,ru,0,0,0
+frehoo,Frederick J. Hooper,1,1,gb,0,0,0
+viccam,Victor Lindsay Arbuthnot Campbell,1,1,gb,0,0,0
+geolev,George Murray Levick,1,1,gb,0,0,0
+raypri,Raymond Edward Priestley,1,1,gb,0,0,0
+geoabb,George Percy Abbott,1,1,gb,0,0,0
+frabro,Frank Vernon Browning,1,1,gb,0,0,0
+hardic,Harry Dickason,1,1,gb,0,0,0
+edwnel,Edward W. Nelson,1,1,gb,0,0,0
+fradeb,Frank Debenham,1,1,au,0,0,0
+trygra,Tryggve Gran,1,1,no,0,0,0
+geosim,George Clarke Simpson,1,1,gb,0,0,0
+thotay,Thomas Griffith Taylor,1,1,au,0,0,0
+herpon,Herbert Ponting,1,1,gb,0,0,0
+robfor,Robert Forde,1,1,ie,0,0,0
+thocli,Thomas Clissold,1,1,NA,0,0,0
+antome,Anton Lukitsch Omeltschenko,1,1,ru,0,0,0
+walarc,Walter William Archer,1,1,gb,0,0,0
+harpen,Harry Lewin Lee Pennell,1,1,gb,0,0,0
+henren,Henry Edward de Parny Rennick,1,1,gb,0,0,0
+wilbru1,Wilfred Montague Bruce,1,1,gb,0,0,0
+fradra,Francis Randall Hugo Drake,1,1,gb,0,0,0
+denlil,Dennis Gascoigne Lillie,1,1,NA,0,0,0
+jamden,James Robert Dennistoun,1,1,nz,0,0,0
+wilwil,William Williams,1,1,gb,0,0,0
+wilhor,William Ault Horton,1,1,gb,0,0,0
+fradav,Francis Edward Charles Davies,1,1,gb,0,0,0
+frepar,Frederick Parsons,1,1,gb,0,0,0
+artbai,Arthur Samuel Bailey,1,1,gb,0,0,0
+albbal,Albert Balson,1,1,gb,0,0,0
+joslee,Joseph Leese,1,1,gb,0,0,0
+johmat,John Hugh Mather,1,1,gb,0,0,0
+roboli,Robert Oliphant,1,1,au,0,0,0
+mormcc,Mortimer McCarthy,1,1,ie,0,0,0
+wilkno,William Knowles,1,1,NA,0,0,0
+chawil,Charles Williams,1,1,NA,0,0,0
+jamske,James Skelton,1,1,gb,0,0,0
+wilmcd,William McDonald,1,1,NA,0,0,0
+robbri,Robert Brissenden,1,1,gb,0,0,0
+edwmck,Edward Archibald McKenzie,1,1,gb,0,0,0
+albbur,Albert William Burton,1,1,gb,0,0,0
+bersto,Bernard James Stone,1,1,gb,0,0,0
+angmcd,Angus McDonald,1,1,nz,0,0,0
+thomcg,Thomas McGillon,1,1,NA,0,0,0
+chalam,Charles Lammas,1,1,nz,0,0,0
+wilnea,William Henry Neale,1,1,gb,0,0,0
+j,Japanische Antarktisexpedition,2,0,jp,1910,2,19
+nobshi,Shirase Nobu,1,1,jp,0,0,0
+naonom,Nomura Noakichi,1,1,jp,0,0,0
+masike,Ikeda Masakichi,1,1,jp,0,0,0
+seimii,Miisho Seizo,1,1,jp,0,0,0
+shihan,Hanamori Shinkichi,1,1,jp,0,0,0
+kotmiu,Miura Kotaro,1,1,jp,0,0,0
+susmur,Muramatsu Susumu,1,1,jp,0,0,0
+gennis,Nishikawa Genzo,1,1,jp,0,0,0
+keitad,Tada Keiichi,1,1,jp,0,0,0
+yastai,Taizumi Yasunao,1,1,jp,0,0,0
+tertak,Takeda Terutaro,1,1,jp,0,0,0
+chiwat,Watanabe Chikasaburo,1,1,jp,0,0,0
+yasyam,Yamabe Yasunosuke,1,1,jp,0,0,0
+yosyos,Yoshino Yoshitada,1,1,jp,0,0,0
+yosfuk,Fukushima Yoshiji,1,1,jp,0,0,0
+mioham,Hamasaki Miosaku,1,1,jp,0,0,0
+giskam,Kamada Gisaku,1,1,jp,0,0,0
+yukmiy,Miyake Yukihiko,1,1,jp,0,0,0
+heisak,Sakai Heitaro,1,1,jp,0,0,0
+ichsat,Sato Ichimatsu,1,1,jp,0,0,0
+kanshi,Shibata Kanejiro,1,1,jp,0,0,0
+yosshi,Shima Yoshitake,1,1,jp,0,0,0
+kotshi,Shimizu Kotaro,1,1,jp,0,0,0
+roksug,Sugisaki Rokugoro,1,1,jp,0,0,0
+sajtak,Takagawa Sajiro,1,1,jp,0,0,0
+sumtak,Takatori Sumimatsu,1,1,jp,0,0,0
+zentan,Tanno Zensaku,1,1,jp,0,0,0
+hirtoh,Tohei Hirose,1,1,jp,0,0,0
+tomtsu,Tsuchiya Tomoji,1,1,jp,0,0,0
+kitwat,Watanabe Kitaro,1,1,jp,0,0,0
+isayas,Yasuda lsaburo,1,1,jp,0,0,0
+ottono,Otto Nordenskjöld,1,1,SE,0,0,0
+wibruc,William Speirs Bruce,1,1,GB,0,0,0
+prispek,Private Spenden Amundsens Fram-Expedition,3,0,NA,0,0,0
+prispen,Private Spenden Australasiatische Expedition (Aurora),3,0,NA,0,0,0
+prispel,Private Spenden Terra Nova,3,0,NA,0,0,0
+prispej,Private Spenden Japanische ,3,0,NA,0,0,0
+prispeh,Private Spenden Nimrod ,3,0,NA,0,0,0
+jambar,Sir James Matthew Barry,3,1,gb,0,0,0
