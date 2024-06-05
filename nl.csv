@@ -1,4 +1,4 @@
-id,name,type,sex,country,year,success,duration
+,name,type,sex,country,year,success,duration
 a,Belgica-Expedition,2,0,be,1897,1,26
 adrger,Adrien de Gerlache de Gomery,1,1,be,0,99,0
 geolec,Georges Lecointe,1,1,be,0,99,0
@@ -183,7 +183,7 @@ ausgov,Australische Regierung,3,0,au,0,99,0
 neugov,Neuseeländische Regierung,3,0,nz,0,99,0
 jamada,Jameson Adams,1,1,gb,0,99,0
 erimar,Eric Stewart Marshall,1,1,gb,0,99,0
-tandav,Tannatt William Edgeworth David,1,1,gb,0,99,0
+tandav,Tannatt William Edgeworth David,1,1,gb// australien eig,0,99,0
 doumaw,Douglas Mawson,1,1,gb,0,99,0
 alimac,Alistair Mackay,1,1,gb,0,99,0
 berarm,Bertram Armytage,1,1,au,0,99,0
@@ -376,7 +376,7 @@ wilmug,William Henry Mugridge,1,1,gb,0,99,0
 harsha,Harold Shaw,1,1,nz,0,99,0
 edwwis,Edward Wise,1,1,naa,0,99,0
 emiang,Émile-Octave d’Anglade,1,1,naa,0,99,0
-d,Gauss Expedition,2,0,de,1901,1,26
+d,Gauss Expedition,2,0,de,1901,2,26
 eridry,Erich von Drygalski,1,1,de,0,99,0
 gusbah,Gustav Bahr,1,1,de,0,99,0
 ernvan,Ernst Vanhöffen,1,1,de,0,99,0
