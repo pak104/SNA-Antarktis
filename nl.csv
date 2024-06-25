@@ -105,7 +105,7 @@ brgov,Britische Regierung,3,0,gb,0,99,0
 llelon,Llewellyn W. Longstaff,3,1,gb,0,99,0
 rgs,Royal Geographical Society,3,0,gb,0,99,0
 alfhar,Alfred Harmsworth,3,1,gb,0,99,0
-q,Shackleton-Rowett Expedition,2,0,gb,1921,2,12
+q,Quest-Expedition,2,0,gb,1921,2,12
 frawor,Frank Worsley,1,1,nz,0,99,0
 aleker,Alexander Kerr,1,1,gb,0,99,0
 jammci,James McIlroy,1,1,gb,0,99,0
@@ -241,7 +241,7 @@ leocot,Leo Arthur Cotton,1,1,au,0,99,0
 alfrei,Alfred Reid,1,1,gb,0,99,0
 herdor,Herbert Dorman,1,1,gb,0,99,0
 joskin,Joseph James Kinsey,1,1,nz,0,99,0
-n,Aurora Expedition,2,0,au,1911,1,26
+n,Aurora-Expedition,2,0,au,1911,1,26
 brispe,Britische Spenden,3,0,gb,0,99,0
 ausbure,Australische Bundesregierung,3,0,au,0,99,0
 ausbusta,Australische Bundesstaatenregierungen,3,0,au,0,99,0
@@ -328,7 +328,7 @@ heisee,Heinrich Seelheim,1,1,de,0,99,0
 wilule,Willi Ule,1,1,de,0,99,0
 kasneu,Kaspar Neuberger,1,1,naa,0,99,0
 hanloh,Hans Lohmann,1,1,de,0,99,0
-o,Endurance,2,0,gb,1914,2,21
+o,Endurance-Expedition,2,0,gb,1914,2,21
 frahur,Frank Hurley,1,1,au,0,99,0
 hubhud,Huberht Hudson,1,1,gb,0,99,0
 liogre,Lionel Greenstreet,1,1,gb,0,99,0
@@ -376,7 +376,7 @@ wilmug,William Henry Mugridge,1,1,gb,0,99,0
 harsha,Harold Shaw,1,1,nz,0,99,0
 edwwis,Edward Wise,1,1,naa,0,99,0
 emiang,Émile-Octave d’Anglade,1,1,naa,0,99,0
-d,Gauss Expedition,2,0,de,1901,2,26
+d,Gauß-Expedition,2,0,de,1901,2,26
 eridry,Erich von Drygalski,1,1,de,0,99,0
 gusbah,Gustav Bahr,1,1,de,0,99,0
 ernvan,Ernst Vanhöffen,1,1,de,0,99,0
@@ -410,8 +410,8 @@ karfra,Karl Franz,1,1,de,0,99,0
 reimic,Reinhold Michael,1,1,de,0,99,0
 wilsch,Wilhelm Schwarz,1,1,de,0,99,0
 albpos,Albert Possin,1,1,de,0,99,0
-geremp,German Empire,3,0,de,0,99,0
-e,Swedish Expedition,2,0,se,1901,1,25
+geremp,Deutsches Kaiserreich,3,0,de,0,99,0
+e,Schwedische Antarktisexpedition,2,0,se,1901,1,25
 ottnor,Otto Nordenskjöld,3,1,se,0,99,0
 carlar,Carl Anton Larsen,1,1,no,0,99,0
 olebjo,Ole Johnson Bjornerud,1,1,no,0,99,0
